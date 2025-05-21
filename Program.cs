@@ -10,7 +10,7 @@ namespace XmlTester
 {
     public class Program
     {
-        const string xmlTransformExtension = ".xmgr";
+        const string xmlTransformExtension = ".xrmg";
 
         public static void Main(string[] args)
         {
